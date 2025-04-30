@@ -72,7 +72,7 @@ I'm a technology enthusiast who transforms ideas into high-performance mobile ap
 ## 📊 GitHub Analytics 📊
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHRAVANBISEN&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHRAVANBISEN&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHRAVANBISEN&theme=radical&hide_border=true" />
 </div>
 
