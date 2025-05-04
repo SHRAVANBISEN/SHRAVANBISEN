@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=ff6600&size=28&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+Specialist;Blockchain+Developer+%7C+Solidity+Expert;AI%2FML+Integration+Professional;Building+Tomorrow's+Tech+Today" alt="Shravan Bisen's expertise">
+<img src="https://readme-typing-svg.herokuapp.com?color=ff6600&size=28&center=true&vCenter=true&width=600&lines=Android+Developer+%7C+Kotlin+Specialist;Blockchain+Enthusiast;AI%2FML+Integration+Professional;Building+Tomorrow's+Tech+Today" alt="Shravan Bisen's expertise">
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
